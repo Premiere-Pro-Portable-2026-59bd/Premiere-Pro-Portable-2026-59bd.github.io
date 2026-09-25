@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Premiere-Pro-Portable-2026-59bd.github.io/sitemap.xml
